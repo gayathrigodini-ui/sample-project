@@ -1,0 +1,45 @@
+
+
+IoT
+IoT Architecture
+
+Azure IoT
+IaaS
+PaaS
+SaaS
+Azure Services
+Azure Storage
+Azure IoT Hub
+Event Hub
+Azure IoT Central
+
+Automotive Electronics and Connected Vehicles
+
+
+
+Embedded Systems 
+Control Systems
+Types- Open loop, Closed loop
+PID
+
+Communication Protocols
+USB, UART, CAN, SPI, I2C
+
+TCP,UDP,HTTP
+
+Wireless communication protocols - Wifi, Bluetooth, Zigbee
+
+Protocols used in IoT - MQTT, CoAP, LoRaWAN
+
+
+HART Technology
+DCS
+Industrial Automation
+SCADA
+Measurement Instrumentation Standards
+Analytical Transmitter- pH, ORP measurement 
+PLC
+
+Raspberry Pi
+Embedded C
+
